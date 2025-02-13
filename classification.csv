@@ -1,0 +1,289 @@
+Type,TypeText,Subcategory,Category
+18AB,ABANDONED BOAT,abandoned property,property issue
+21AB,ABANDONED BOAT,abandoned property,property issue
+18A,ABANDONED VEHICLE,abandoned property,property issue
+ABVEH,ABANDONED VEHICLE,abandoned property,property issue
+21B,BLIGHTED PROPERTY,abandoned property,property issue
+ALRMCB,ALARM: COMMERCIAL - BURGLARY,alarm,alarm
+ALRMCH,ALARM: COMMERCIAL - HOLDUP,alarm,alarm
+ALRMRB,ALARM: RESIDENTIAL - BURGLARY,alarm,alarm
+ALRMRH,ALARM: RESIDENTIAL - PANIC,alarm,alarm
+ALRM,ALARM: UNKNOWN TYPE,alarm,alarm
+62A,BURGLAR ALARM,alarm,alarm
+62ANR,BURGLAR ALARM,alarm,alarm
+62L,BURGLAR ALARM,alarm,alarm
+62AB,BURGLARY ALARM - BUSINESS,alarm,alarm
+62AR,BURGLARY ALRAM - RESIDENTIAL,alarm,alarm
+64A,HOLD UP ALARM,alarm,alarm
+64AR,PANIC/HOLDUP ALRAM - RESIDENTIAL,alarm,alarm
+DRUG,DRUG ACTIVITY,alcohol or drugs,public disorder
+966,DRUG VIOLATIONS,alcohol or drugs,public disorder
+19,DRUNK,alcohol or drugs,public disorder
+DRUNK,DRUNK IN PUBLIC,alcohol or drugs,public disorder
+102,CRUELTY TO ANIMALS,animals,animals
+17J,JUVENILE ATTACHMENT,attachment,police procedure
+17F,FUGITIVE ATTACHMENT,attachment,police procedure
+17M,MUNICIPAL ATTACHMENT,attachment,police procedure
+17R,WARR STOP WITH RELEASE,attachment,police procedure
+WARRA,WARRANT SERVICE: ARREST,attachment,police procedure
+51B,BOMB SCARE,bomb,weapon issue
+AREACK,AREA CHECK,checking,police procedure
+22A,AREA CHECK,checking,police procedure
+BUSCK,BUSINESS CHECK,checking,police procedure
+22B,BUSINESS CHECK,checking,police procedure
+RESCK,RESIDENCE CHECK,checking,police procedure
+22R,RESIDENCE CHECK,checking,police procedure
+22N,TROOP N AREA - BUSINESS - RESIDENCE CHECK,checking,police procedure
+WELFARE,WELFARE CHECK,checking,police procedure
+MISC,MISCELLANEOUS COMPLAINT,complaint,complaint
+21N,NOISE COMPLAINT,complaint,complaint
+21,COMPLAINT OTHER,complaint,complaint
+ACC,ACCIDENT - PROPERTY DAMAGE,damage,property issue
+20XI,ACCIDENT WITH INJURY IN PD VEH,damage,property issue
+55,AGGRAVATED CRIMINAL DAMAGE,damage,criminal issue
+56,SIMPLE CRIMINAL DAMAGE,damage,criminal issue
+56D,CRIMINAL DAMAGE DOMESTIC,damage,criminal issue
+DESTR,DESTRUCTION OF PROPERTY,damage,criminal issue
+59,CRIMINAL MISCHIEF,damage,criminal issue
+29,DEATH,fatal case,personal issue
+30,HOMICIDE,fatal case,criminal issue
+30S,HOMICIDE BY SHOOTING,fatal case,criminal issue
+29S,SUICIDE,fatal case,personal issue
+29SA,SUICIDE ATTEMPT,fatal case,personal issue
+SUIAP,SUICIDE ATTEMPT (PD),fatal case,personal issue
+29ST,SUICIDE THREAT,fatal case,personal issue
+SUIT,SUICIDE THREAT (FD NOT ENR),fatal case,personal issue
+DEADPU,UNCLASSIFIED DEATH,fatal case,personal issue
+29U,UNCLASSIFIED DEATH,fatal case,personal issue
+51,AGGRAVATED ARSON,fire incident,property issue
+ARSONP,ARSON INCIDENT (PD),fire incident,property issue
+52,SIMPLE ARSON,fire incident,property issue
+52D,SIMPLE ARSON DOMESTIC,fire incident,property issue
+94F,FIREWORKS,fire incident,property issue
+52F,FIRE,fire incident,property issue
+FVEHP,FIRE: VEHICLE (PD),fire incident,property issue
+FSERVP,SERVICE TO FIRE DEPT (PD),fire incident,property issue
+FRWORK,ILLEGAL FIREWORKS,fire incident,property issue
+60,AGGRAVATED BURGLARY,illegal entry,criminal issue
+60D,AGGRAVATED BURGLARY DOMESTIC,illegal entry,criminal issue
+27-62,ATTEMPTED SIMPLE BURGLARY,illegal entry,criminal issue
+BURGV,BURGLARY FROM VEHICLE,illegal entry,criminal issue
+BURGOC,BURGLARY OCCUPIED DWELLING,illegal entry,criminal issue
+62B,BUSINESS BURGLARY,illegal entry,criminal issue
+BURGC,COMMERCIAL BURGLARY,illegal entry,criminal issue
+62R,RESIDENCE BURGLARY,illegal entry,criminal issue
+BURGR,RESIDENTAL BURGLARY (NOT OCCUPIED AT TIME OF INCIDENT),illegal entry,criminal issue
+62,SIMPLE BURGLARY,illegal entry,criminal issue
+62D,SIMPLE BURGLARY DOMESTIC,illegal entry,criminal issue
+62C,SIMPLE BURGLARY VEHICLE,illegal entry,criminal issue
+92,CONTRIBUTING TO DELINQUENCY,involving of  a person in illegal activity,criminal issue
+46,HUMAN TRAFFICKING,involving of  a person in illegal activity,criminal issue
+ABDUCT,ABDUCTION,kidnapping,criminal issue
+45D,ABDUCTION/CUSTODY DISPUTE DOMESTIC,kidnapping,criminal issue
+44,AGGRAVATED KIDNAPPING,kidnapping,criminal issue
+44H,HOSTAGE SITUATION,kidnapping,criminal issue
+PROP,LOST OR FOUND PROPERTY,lost property,criminal issue
+21P,LOST PROPERTY,lost property,criminal issue
+ACCIMP,ACCIDENT W/INJ - MEDIC REQ (PD),medical incident,medical issue
+24,MEDICAL,medical incident,medical issue
+24N,MEDICAL - NALOXONE,medical incident,medical issue
+PDMED,MEDICAL INCIDENT (PD),medical incident,medical issue
+103MV,MENTAL HEALTH CRISIS - VIOLENT,mental patient,personal issue
+103M,MENTAL PATIENT,mental patient,personal issue
+MENTP,MENTAL PATIENT TRANSPORT,mental patient,personal issue
+CIT,MENTAL PERSON: NON VIOLENT,mental patient,personal issue
+CRIMIS,CRITICAL MISSING PERSON,missing person,personal issue
+21M,MISSING ADULT,missing person,personal issue
+MISS,MISSING ADULT,missing person,personal issue
+21J,MISSING JUVENILE,missing person,personal issue
+21F,FLOOD EVENT,natural disaster,natural issue
+FLOODS,FLOODED STREET,natural disaster,natural issue
+18F,FLOODED VEHICLE,natural disaster,natural issue
+ACCITP,ACCIDENT W/INJ - POSSIBLY TRAPPED (PD),person in dangerous situation,personal issue
+LOCKP,LOCK OUT (PD),person in dangerous situation,personal issue
+21C,CURFEW VIOLATION,person in dangerous situation,personal issue
+FRAUD,FRAUD/FLIMFLAM,person in dangerous situation,personal issue
+39,NEGLIENT INJURY,person in dangerous situation,personal issue
+66,EXTORTION (THREATS),person in dangerous situation,personal issue
+66D,EXTORTION (THREATS) DOMESTIC,person in dangerous situation,personal issue
+1028,AIR CLEARANCE REQUEST,police protocol action,police procedure
+ALRMBH,ALARM: BANK - HOLDUP,police protocol action,police procedure
+COURT,COURT,police protocol action,police procedure
+22D,DIRECTED PATROL,police protocol action,police procedure
+DIRECTP,DIRECTED PATROL,police protocol action,police procedure
+DEADP,D.O.A./C.P.R. IN PROGRESS (PD),police protocol action,police procedure
+94,DISCHARGING FIREARM,police protocol action,police procedure
+1055,OFFICER NEEDS ASSISTANCE,police protocol action,police procedure
+108,OFFICER NEEDS ASSISTANCE,police protocol action,police procedure
+PRIS,PRISONER TRANSPORT,police protocol action,police procedure
+58,RETURN FOR ADDITIONAL INFO,police protocol action,police procedure
+SRO,SCHOOL RESOURCE OFFICER,police protocol action,police procedure
+911,SILENT 911 CALL,police protocol action,police procedure
+110,SIMPLE ESCAPE,police protocol action,police procedure
+QOLIFE,QUALITY OF LIFE ACTIVITY,police protocol action,police procedure
+21Q,QUALITY OF LIFE ISSUE,police protocol action,police procedure
+STA,STATION,police protocol action,police procedure
+UNK,UNKNOWN SIT/CALL FOR HELP,police protocol action,police procedure
+URGENT,URGENT REQUEST (PD),police protocol action,police procedure
+22W,WALKING BEAT,police protocol action,police procedure
+110E,ELECTRONIC MONITORING ESCAPE/EVASION,police protocol action,police procedure
+1055E,EMS UNIT NEEDS ASSISTANCE,police protocol action,police procedure
+NOPD,INCIDENT REQUESTED BY ANOTHER AGENCY,police protocol action,police procedure
+INVP,INVESTIGATION: POLICE DEPARTMENT,police protocol action,police procedure
+26,MEET AN OFFICER,police protocol action,police procedure
+CIVIL,CIVIL DISPUTE,potentially dangerous communication,public disorder
+DOMDIS,DOMESTIC DISPUTE,potentially dangerous communication,public disorder
+103D,DOMESTIC DISTURBANCE,potentially dangerous communication,public disorder
+106,OBSCENITY,potentially dangerous communication,public disorder
+81,INDECENT BEHAVIOR,potentially dangerous communication,public disorder
+MENTAL,EMOTIONALLY DISTURBED PERSON,potentially dangerous communication,public disorder
+107S,SUSPICIOUS PACKAGE,potentially dangerous object/subject,public disorder
+107P,SUSPICIOUS PACKAGE,potentially dangerous object/subject,public disorder
+SUSPV,SUSPICIOUS VEHICLE,potentially dangerous object/subject,public disorder
+107,SUSPICIOUS PERSON,potentially dangerous object/subject,public disorder
+SUSPP,SUSPICIOUS PERSON,potentially dangerous object/subject,public disorder
+21H,HOMELESS,potentially dangerous object/subject,public disorder
+LOITER,LOITERING,potentially dangerous object/subject,public disorder
+63,PROWLER,potentially dangerous object/subject,public disorder
+22,DISPERSE SUBJECTS,potentially dangerous object/subject,public disorder
+103P,PROTEST,public disturbance,public disorder
+63P,PROTEST,public disturbance,public disorder
+PROTEST,PROTEST,public disturbance,public disorder
+NOISE,NOISE VIOLATION,public disturbance,public disorder
+PARTY,LOUD PARTY,public disturbance,public disorder
+SUSPE,SUSPICIOUS EVENT,public disturbance,public disorder
+SOLIC,SOLICITOR VIOLATION,public disturbance,public disorder
+103,DISTURBANCE (OTHER),public disturbance,public disorder
+PARADEP,PARADE (PD),public disturbance,public disorder
+21MG,PARADE ITEM NUMBER,public disturbance,public disorder
+ACSHOT,RECLASS: ACCIDENTAL SHOOTING,reclassification,police procedure
+ACCFX,RECLASS: FATAL ACCIDENT,reclassification,police procedure
+MURDERST,RECLASS: MURDER BY SHOOOTING,reclassification,police procedure
+WMD,RECLASS: WEAPONS OF MASS DESTRUCTION,reclassification,police procedure
+42,AGGRAVATED RAPE,sexual crime,criminal issue
+42U,AGGRAVATED RAPE UNFOUNDED BY SPECIAL VICTIMS OR CHILD ABUSE,sexual crime,criminal issue
+27-42,ATTEMPTED AGGRAVATED RAPE,sexual crime,criminal issue
+27-43,ATTEMPTED SIMPLE RAPE,sexual crime,criminal issue
+24K,MEDICAL SEXUAL ASSAULT KIT PROCESSING,sexual crime,criminal issue
+43MB,MISDEMEANOR SEXUAL BATTERY,sexual crime,criminal issue
+542,SEX OFFENDER REGISTRATION CHECK,sexual crime,criminal issue
+SEXOFF,SEX OFFENSE: GENERAL/MISC,sexual crime,criminal issue
+43U,SIMPLE RAPE UNFOUNDED BY SPECIAL VICTIMS OR CHILD ABUSE,sexual crime,criminal issue
+81S,SEXTING,sexual crime,criminal issue
+RAPE,SEXUAL ASSAULT,sexual crime,criminal issue
+SEXKIT,SEXUAL ASSAULT KIT PROCESSED BY HOSPITAL,sexual crime,criminal issue
+43B,SEXUAL BATTERY,sexual crime,criminal issue
+43,SIMPLE RAPE,sexual crime,criminal issue
+83,SOLICITING FOR PROSTITUTION,sexual crime,criminal issue
+THREAT,THREATS/HARASSMENT,sexual crime,criminal issue
+283,VIDEO VOYEURISM,sexual crime,criminal issue
+82,PROSTITUTION,sexual crime,criminal issue
+58R,RECOVERY OF REPORTED STOLEN VEHICLE,stolen property,criminal issue
+64J,CARJACKING,stolen property,criminal issue
+65J,CARJACKING- NO WEAPON,stolen property,criminal issue
+ROBCJ,CARJACKING: ROBBERY,stolen property,criminal issue
+67A,AUTO THEFT,stolen property,criminal issue
+64,ARMED ROBBERY,stolen property,criminal issue
+64G,ARMED ROBBERY WITH GUN,stolen property,criminal issue
+64K,ARMED ROBBERY WITH KNIFE,stolen property,criminal issue
+27-65,ATTEMPTED SIMPLE ROBBERY,stolen property,criminal issue
+ROB,ROBBERY,stolen property,criminal issue
+ROBW,ROBBERY W/WEAPON,stolen property,criminal issue
+65,SIMPLE ROBBERY,stolen property,criminal issue
+65P,SIMPLE ROBBERY,stolen property,criminal issue
+67P,PICKPOCKET,stolen property,criminal issue
+69,POSSESSION OF STOLEN PROPERTY,stolen property,criminal issue
+67AR,SIMULTANEOS STOLEN/RECOVERY VEHICLE,stolen property,criminal issue
+VEHSTRC,VEHICLE SIMULTANEOUS STOLEN AND RECOVERY,stolen property,criminal issue
+VEHSTO,VEHICLE STOLEN,stolen property,criminal issue
+27-67A,ATTEMPTED AUTO THEFT,stolen property,criminal issue
+27-67,ATTEMPTED THEFT,stolen property,criminal issue
+27-67C,ATTEMPTED THEFT FORM VEHICLE,stolen property,criminal issue
+67B,BICYCLE THEFT,stolen property,criminal issue
+THEFT,THEFT,stolen property,criminal issue
+67,THEFT,stolen property,criminal issue
+67E,THEFT BY EMBEZZLEMENT,stolen property,criminal issue
+67F,THEFT BY FRAUD,stolen property,criminal issue
+67C,THEFT FROM EXTERIOR OF VEHICLE,stolen property,criminal issue
+67S,SHOPLIFTING,stolen property,criminal issue
+SHOP,SHOPLIFTING W/APPREHENSION,stolen property,criminal issue
+21TEST,CAD TEST,testing,police procedure
+TESTP,TEST EVENT POLICE,testing,police procedure
+ACCH,ACCIDENT - HIT & RUN,traffic collision,traffic issue
+ACCHX,ACCIDENT HIT AND RUN IN PD VEH,traffic collision,traffic issue
+CVACC,ACCIDENT IN CITY VEH,traffic collision,traffic issue
+ACCX,ACCIDENT IN PD VEH,traffic collision,traffic issue
+ACCIMTP,ACCIDENT W/INJ - MASS TRANSIT INV (PD),traffic collision,traffic issue
+ACCIHP,ACCIDENT W/INJ - HIT & RUN (PD),traffic collision,traffic issue
+20,AUTO ACCIDENT,traffic collision,traffic issue
+20C,AUTO ACCIDENT CITY VEHICLE,traffic collision,traffic issue
+20F,AUTO ACCIDENT FATALITY,traffic collision,traffic issue
+20X,AUTO ACCIDENT POLICE VEHICLE,traffic collision,traffic issue
+20I,AUTO ACCIDENT WITH INJURY,traffic collision,traffic issue
+100,HIT & RUN,traffic collision,traffic issue
+100C,HIT & RUN CITY VEHICLE,traffic collision,traffic issue
+100F,HIT & RUN FATALITY,traffic collision,traffic issue
+100X,HIT & RUN POLICE VEHICLE,traffic collision,traffic issue
+100I,HIT & RUN WITH INJURIES,traffic collision,traffic issue
+DWI,DRIVING WHILE INTOXICATED,traffic collision,traffic issue
+98,DRIVING WHILE UNDER INFLUENCE,traffic collision,traffic issue
+99,RECKLESS DRIVING,traffic collision,traffic issue
+TRAFRK,RECKLESS DRIVING COMPLAINT,traffic collision,traffic issue
+18DE,DIRECTED TRAFFIC ENFORCEMENT,traffic collision,traffic issue
+TRAFDM,DISABLED/STRANDED MOTORIST,traffic collision,traffic issue
+18S,DISABLED/STRANDED MOTORIST,traffic collision,traffic issue
+17T,TRAFFIC ATTACHMENT,traffic collision,traffic issue
+TRAF,TRAFFIC COMPLAINT/VIOLATION,traffic collision,traffic issue
+23,TRAFFIC CONGESTION,traffic collision,traffic issue
+TRAFENF,TRAFFIC ENFORCEMENT,traffic collision,traffic issue
+18,TRAFFIC INCIDENT,traffic collision,traffic issue
+TS,TRAFFIC STOP,traffic collision,traffic issue
+TSNP,TRAFFIC STOP NON PURSUIT,traffic collision,traffic issue
+TRAINP,TRAIN ACCIDENT OR FIRE (PD),traffic collision,traffic issue
+DISORD,DISORDERLY CONDUCT,traffic collision,traffic issue
+TRAFHZ,HAZARD IN ROADWAY,traffic collision,traffic issue
+ICE,ICING ON ROADS,traffic collision,traffic issue
+HOMEIV,HOME INVASION,trespassing,criminal issue
+62H,HOME INVASION,trespassing,criminal issue
+TRESP,TRESPASSING,trespassing,criminal issue
+TRUANT,TRUANCY VIOLATION,unautorized absence,public disorder
+21T,TRUANT VIOLATION,unautorized absence,public disorder
+68,UNAUTHORIZED USE OF VEHICLE,vehicle,property issue
+TOW,TOW IMPOUNDED VEHICLE (PRIVATE),vehicle,property issue
+PARK,PARKING VIOLATION,vehicle,property issue
+21R,RECOVERY OF VEHICLE,vehicle,property issue
+1028NP,VEHICLE NO-PURSUIT,vehicle,property issue
+1028P,VEHICLE PURSUIT,vehicle,property issue
+VP,VEHICLE PURSUIT,vehicle,property issue
+VEHREC,VEHICLE RECOVERY,vehicle,property issue
+VEHUU,VEHICLE: UNAUTHORIZED USE,vehicle,property issue
+37,AGGRAVATED ASSAULT,violance against person,criminal issue
+37D,AGGRAVATED ASSAULT DOMESTIC,violance against person,criminal issue
+ASLT,SIMPLE ASSAULT,violance against person,criminal issue
+38,SIMPLE ASSAULT,violance against person,criminal issue
+38D,SIMPLE ASSAULT DOMESTIC,violance against person,criminal issue
+PROTECT,VIOLATION OF A PROTECTION ORDER,violance against person,criminal issue
+79,VIOLATION OF PROTECTION ORDER,violance against person,criminal issue
+ASLTWP,ASSAULT W/WEAPON (PD),violance against person with weapon,criminal issue
+ASLTI,SIMPLE ASSAULT W/INJURY,violance against person with weapon,criminal issue
+34C,AGGRAVATED BATTERY BY CUTTING,violance against person with weapon,criminal issue
+34S,AGGRAVATED BATTERY BY SHOOTING,violance against person with weapon,criminal issue
+ABUSE,ABUSE/NEGLIECT,violation against person,criminal issue
+34,AGGRAVATED BATTERY,violation against person,criminal issue
+34D,AGGRAVATED BATTERY DOMESTIC,violation against person,criminal issue
+103F,FIGHT,violation against person,criminal issue
+FIGHT,FIGHT,violation against person,criminal issue
+DOMVIO,DOMESTIC VIOLENCE,violence against person,criminal issue
+35,SIMPLE BATTERY,violence against person,criminal issue
+35D,SIMPLE BATTERY DOMESTIC,violence against person,criminal issue
+STABP,STABBING (PD),violence against person,criminal issue
+40,STALKING INCIDENT,violence against person,criminal issue
+STALK,STALKING INCIDENT,violence against person,criminal issue
+PHONE,TELEPHONE HARASSMENT/THREAT,violence against person,criminal issue
+ACCIP,ACCIDENT W/INJ (PD),weapon crime,criminal issue
+95,ILLEGAL CARRYING OF WEAPON,weapon crime,criminal issue
+95G,ILLEGAL CARRYING OF WEAPON- GUN,weapon crime,criminal issue
+95K,ILLEGAL CARRYING OF WEAPON- KNIFE,weapon crime,criminal issue
+STFIRED,SHOTS FIRED,weapon crime,criminal issue
+SHOTP,SHOOTING (PD),weapon crime,criminal issue
+WEAPON,WEAPON BRANDISH/CONCEAL,weapon crime,criminal issue
